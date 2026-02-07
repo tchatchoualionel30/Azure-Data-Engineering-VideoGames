@@ -59,8 +59,7 @@ ORDER BY Total_Ventes_Millions DESC;
 
 Résultats obtenus
 
-
-![alt text](image.png)
+![alt text](image-1.png)
 
 
 📂 Documentation
